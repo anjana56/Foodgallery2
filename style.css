@@ -1,0 +1,176 @@
+.list{
+    display: inline;
+    margin-left: 10px;
+    color: azure;
+    list-style: none;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+}
+.link1{
+    text-decoration: none;
+}
+.link1:hover{
+    color: red;
+    text-decoration: underline;
+}
+.bgimg1{
+    width: 100%;
+    height: 500px;
+}
+.bgimg{
+    position: relative;
+    text-align: center;
+    color: azure;
+}
+.mainHead{
+    position: absolute;
+    font-size: 80px;
+    top: 30%;
+    left: 30%; 
+    font-family: 'Times New Roman', Times, serif;   
+}
+.subHead{
+    position: absolute;
+    font-size: 30px;
+    color: azure;
+    top: 60%;
+    left: 35%;
+}
+.photos{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(141, 23, 23);
+    border: solid;
+    float: left;
+}
+#photo1{
+    position: absolute;
+    top: 75%;
+    left: 30%;
+}
+#photo2{
+    position: absolute;
+    top: 70%;
+    left: 42%;
+}
+#photo3{
+    position: absolute;
+    top: 75%;
+    left: 54%;
+}
+.img1{
+    width: 150px;
+    height: 150px;
+}
+.img2{
+    width: 150px;
+    height: 150px;
+}
+.img3{
+    width: 150px;
+    height: 150px;
+}
+.haeding2{
+    color: black;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 100px;
+}  
+.boxes{
+    height: 430px;
+    width: 300px;
+    background-color: white;
+    float: left; 
+    margin-left: 100px;
+} 
+.food1{
+    height: 200px;
+    width: 300px;
+}
+.food2{
+    height: 200px;
+    width: 300px;
+}
+.food3{
+    height: 200px;
+    width: 300px;
+}
+.button1{
+    background-color: green;
+    color: white;
+    margin-left: 210px;
+    border-radius: 10px;
+}
+.food4{
+    height: 200px;
+    width: 300px;
+}
+.boxes1{
+    height: 430px;
+    width: 300px;
+    background-color: green;
+    float: left; 
+    margin-left: 100px;  
+}
+.food5{
+    height: 200px;
+    width: 300px;
+}
+.food6{
+    height: 200px;
+    width: 300px;
+}
+.food7{
+    height: 200px;
+    width: 300px;
+}
+.food8{
+    height: 200px;
+    width: 300px;
+}
+.food9{
+    height: 200px;
+    width: 300px;
+}
+
+.new{
+    margin-top: 500px;
+    height: 750px;
+    width: 100%;
+    background-color: darkolivegreen;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+    width: 35%;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+}
+.last{
+    margin-top: 500px;
+    height: 250px;
+    width: 100%;
+    background-color: darkgreen;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+}
+.class1{
+    display: flex;
+    flex-direction: column;
+}
+.class3{
+   display: flex;
+   flex-direction: column;
+}
